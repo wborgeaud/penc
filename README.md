@@ -1,7 +1,10 @@
 # Penc: A python command-line tool to encode and decode from hex and base64
 
+## Install:
+`pip install penc` 
+
 ## Usage:
-```python
+```bash
 Usage: penc [OPTIONS] COMMAND [ARGS]...
 
 Options:
