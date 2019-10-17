@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name='penc',
@@ -11,8 +11,10 @@ setup(
     install_requires=[
         'Click',
     ],
+    packages=find_packages(),
+    include_package_data=True,
     entry_points='''
         [console_scripts]
-        penc=main:cli
+        penc=src.main:cli
     ''',
 )

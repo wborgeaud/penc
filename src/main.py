@@ -1,6 +1,6 @@
 import click
-import b64
-import hexx
+from . import b64
+from . import hexx
 
 @click.group()
 def cli():
