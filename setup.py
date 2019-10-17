@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='penc',
-    version='0.1',
+    version='0.2',
     license='MIT',
     description = 'A python command-line tool to encode and decode from hex and base64',
     author = 'William Borgeaud',
