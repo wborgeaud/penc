@@ -31,4 +31,3 @@ $ penc x 'Hello from penc'
 $ penc xd 48656c6c6f2066726f6d2070656e63
 Hello from penc
 ```
-```
