@@ -1,8 +1,0 @@
-main.py
-setup.py
-penc.egg-info/PKG-INFO
-penc.egg-info/SOURCES.txt
-penc.egg-info/dependency_links.txt
-penc.egg-info/entry_points.txt
-penc.egg-info/requires.txt
-penc.egg-info/top_level.txt
